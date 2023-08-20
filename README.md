@@ -8,3 +8,5 @@ Statistics 2- includes concepts of proability and probability distribution with 
 Statistics 3- includes concept of inferential statistics; hypothesis testing, correlation and anova with implementation works.
 
 Regression Analysis- includes concepts of linear, multiple linear and logistic regression analysis with implementation works.
+
+NOTE: All programs are done using Anaconda2, so the versions of libraries are not the latest so there might be some issues and or warnings related to it. 
